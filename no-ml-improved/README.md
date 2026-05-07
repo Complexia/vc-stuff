@@ -1,0 +1,18 @@
+How to run: cargo run --release -- --manifest ../boundingBoxes.json --images ../images --out predictions.json
+
+or if installed: vehicle-colour --manifest boundingBoxes.json --images ./images --out predictions.json
+
+
+How it works:
+
+1. Loads the image and clamps the box to image bounds.
+2. Samples pixels from the central body area of the detection, down-weighting the top/bottom edges where sky, road, windows, tyres, and bumpers are common.
+3. Applies a simple gray-world white balance so colour-graded frames do not turn neutral cars blue/orange.
+4. Filters out likely glare, deep shadows, glass/tyres, lane markings, plates, and lamps where enough cleaner pixels are available.
+5. Uses weighted palette voting plus an aggregate RGB/HSV fallback.
+6. Snaps the result to the fixed palette:
+
+this improvement adds a narrow underexposed-neutral correction: if the classifier would
+return black for a low-saturation vehicle, it checks the brighter neutral body
+pixels first. If those upper-percentile pixels are clearly gray/silver, it
+returns gray or silver instead of treating the whole dark frame as black.

@@ -1,0 +1,218 @@
+[
+  {
+    "image": "car_0.jpg",
+    "bbox_pixels": {
+      "left": 134.06,
+      "top": 223.12,
+      "width": 1651.88,
+      "height": 643.12
+    }
+  },
+  {
+    "image": "car_1.jpg",
+    "bbox_pixels": {
+      "left": 684.38,
+      "top": 285.0,
+      "width": 1093.12,
+      "height": 518.44
+    }
+  },
+  {
+    "image": "car_2.jpg",
+    "bbox_pixels": {
+      "left": 443.44,
+      "top": 869.53,
+      "width": 172.5,
+      "height": 161.72
+    }
+  },
+  {
+    "image": "car_2.jpg",
+    "bbox_pixels": {
+      "left": 1485.0,
+      "top": 873.75,
+      "width": 183.75,
+      "height": 108.75
+    }
+  },
+  {
+    "image": "car_2.jpg",
+    "bbox_pixels": {
+      "left": 73.01,
+      "top": 791.72,
+      "width": 156.09,
+      "height": 92.81
+    }
+  },
+  {
+    "image": "car_2.jpg",
+    "bbox_pixels": {
+      "left": 322.5,
+      "top": 778.12,
+      "width": 128.44,
+      "height": 93.75
+    }
+  },
+  {
+    "image": "car_2.jpg",
+    "bbox_pixels": {
+      "left": 1626.56,
+      "top": 844.22,
+      "width": 170.62,
+      "height": 88.12
+    }
+  },
+  {
+    "image": "car_2.jpg",
+    "bbox_pixels": {
+      "left": 1820.62,
+      "top": 770.16,
+      "width": 99.38,
+      "height": 77.81
+    }
+  },
+  {
+    "image": "car_2.jpg",
+    "bbox_pixels": {
+      "left": 518.44,
+      "top": 780.0,
+      "width": 130.31,
+      "height": 105.94
+    }
+  },
+  {
+    "image": "car_2.jpg",
+    "bbox_pixels": {
+      "left": 276.56,
+      "top": 671.72,
+      "width": 123.28,
+      "height": 86.25
+    }
+  },
+  {
+    "image": "car_2.jpg",
+    "bbox_pixels": {
+      "left": 214.92,
+      "top": 900.94,
+      "width": 134.53,
+      "height": 125.62
+    }
+  },
+  {
+    "image": "car_2.jpg",
+    "bbox_pixels": {
+      "left": 401.02,
+      "top": 706.41,
+      "width": 106.64,
+      "height": 72.19
+    }
+  },
+  {
+    "image": "car_3.jpg",
+    "bbox_pixels": {
+      "left": 500.62,
+      "top": 412.27,
+      "width": 223.12,
+      "height": 175.55
+    }
+  },
+  {
+    "image": "car_3.jpg",
+    "bbox_pixels": {
+      "left": 110.16,
+      "top": 392.11,
+      "width": 234.61,
+      "height": 166.64
+    }
+  },
+  {
+    "image": "car_3.jpg",
+    "bbox_pixels": {
+      "left": 1349.06,
+      "top": 503.91,
+      "width": 273.75,
+      "height": 187.5
+    }
+  },
+  {
+    "image": "car_3.jpg",
+    "bbox_pixels": {
+      "left": 1622.81,
+      "top": 387.19,
+      "width": 240.0,
+      "height": 150.47
+    }
+  },
+  {
+    "image": "car_3.jpg",
+    "bbox_pixels": {
+      "left": 888.28,
+      "top": 356.02,
+      "width": 197.34,
+      "height": 170.39
+    }
+  },
+  {
+    "image": "car_3.jpg",
+    "bbox_pixels": {
+      "left": 432.42,
+      "top": 223.12,
+      "width": 153.52,
+      "height": 113.91
+    }
+  },
+  {
+    "image": "car_3.jpg",
+    "bbox_pixels": {
+      "left": 734.06,
+      "top": 184.22,
+      "width": 136.88,
+      "height": 101.95
+    }
+  },
+  {
+    "image": "car_3.jpg",
+    "bbox_pixels": {
+      "left": 508.59,
+      "top": 132.66,
+      "width": 137.81,
+      "height": 118.36
+    }
+  },
+  {
+    "image": "car_3.jpg",
+    "bbox_pixels": {
+      "left": 1633.12,
+      "top": 174.26,
+      "width": 168.75,
+      "height": 112.62
+    }
+  },
+  {
+    "image": "car_3.jpg",
+    "bbox_pixels": {
+      "left": 1378.12,
+      "top": 153.05,
+      "width": 125.62,
+      "height": 86.02
+    }
+  },
+  {
+    "image": "car_3.jpg",
+    "bbox_pixels": {
+      "left": 1201.88,
+      "top": 157.15,
+      "width": 129.38,
+      "height": 91.29
+    }
+  },
+  {
+    "image": "car_4.jpg",
+    "bbox_pixels": {
+      "left": 425.86,
+      "top": 479.53,
+      "width": 669.14,
+      "height": 467.81
+    }
+  }
+]
