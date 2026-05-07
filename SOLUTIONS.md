@@ -8,7 +8,7 @@ ml-solution takes the bbox pixels, runs it through SAM (ran locally) to get the 
 
 3)
 ml-vlm-solution takes the bbox pixels, runs it through SAM for masks, then sends those as the prompt to a VLM (or any LLM with visual capability) via OpenRouter. VLM returns the color of the vehicle as semantically inferred. qwen3-vl struggled on car_01.jpg and got it wrong, and gpt-5.4-mini got it right. Can be tested with any visual model by adjusting the MODEL variable in .env
-(note, feel free to use my OPENROUTER api key for testing, I put a $10 limit on it)
+(note, feel free to use my OPENROUTER api key for testing, I put a $10 limit on it - ask me if needed)
 
 4)
 no-ml-improved is basically an improved version of no-ml, with the following difference:
