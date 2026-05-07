@@ -1,4 +1,4 @@
-There are 3 solutions here
+There are 5 solutions here
 
 1)
 no-ml-solution simply uses the bbox for the pixels, ignores the edges (more chance to avoid road, sky, etc), converts pixels from RGB to HSV, and gets color average. It's mostly accurate but struggles on black and white images or images taken in darker settings (like car_1.jpg)
